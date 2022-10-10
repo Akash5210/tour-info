@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Indian",
+      "tours": [
+        {
+          "id": 1,
+          "name": "The Tajmahal",
+          "duration": 5,
+          "rating": 4.5,
+          "numberOfReviews": 462,
+          "price": 355,
+          "image": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-agra.jpg"
+        },
+        {
+          "id": 2,
+          "name": "The Gateway of India",
+          "duration": 8,
+          "rating": 3.5,
+          "numberOfReviews": 641,
+          "price": 385,
+          "image": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-mumbai.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Rishikesh",
+          "duration": 2,
+          "rating": 4.5,
+          "numberOfReviews": 133,
+          "price": 420,
+          "image": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-rishikesh.jpg"
+        },
+        {
+          "id": 4,
+          "name": "The Golden Temple",
+          "duration": 5,
+          "rating": 4.5,
+          "numberOfReviews": 462,
+          "price": 425,
+          "image": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-amritsar.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "International",
+      "tours": [
+        {
+          "id": 4,
+          "name": "The Roman Forum",
+          "duration": 5,
+          "rating": 4.5,
+          "numberOfReviews": 462,
+          "price": 465,
+          "image": "https://www.planetware.com/wpimages/2019/09/top-places-to-visit-in-the-world-rome-italy.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Istanbul",
+          "duration": 5,
+          "rating": 4.5,
+          "numberOfReviews": 462,
+          "price": 445,
+          "image": "https://www.planetware.com/wpimages/2019/09/top-places-to-visit-in-the-world-istanbul-turkey.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Tower Bridge in London",
+          "duration": 8,
+          "rating": 3.5,
+          "numberOfReviews": 641,
+          "price": 395,
+          "image": "https://www.planetware.com/wpimages/2019/09/top-places-to-visit-in-the-world-london-england.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Statue of Liberty",
+          "duration": 2,
+          "rating": 4.5,
+          "numberOfReviews": 133,
+          "price": 444,
+          "image": "https://www.planetware.com/wpimages/2019/09/top-places-to-visit-in-the-world-manhattan-new-york.jpg"
+        }
+      ]
+    }
+  ]
